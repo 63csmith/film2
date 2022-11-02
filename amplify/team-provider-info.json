@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-film2-staging-131113-authRole",
+      "UnauthRoleArn": "arn:aws:iam::710908630677:role/amplify-film2-staging-131113-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::710908630677:role/amplify-film2-staging-131113-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-film2-staging-131113-deployment",
+      "UnauthRoleName": "amplify-film2-staging-131113-unauthRole",
+      "StackName": "amplify-film2-staging-131113",
+      "StackId": "arn:aws:cloudformation:us-east-1:710908630677:stack/amplify-film2-staging-131113/d41e3700-5aaf-11ed-a7a3-0e9eac0d0f09",
+      "AmplifyAppId": "d37eaesa7lpgw8"
+    },
+    "categories": {
+      "auth": {
+        "Film2": {}
+      }
+    }
+  }
+}
